@@ -146,7 +146,49 @@ CI 테스트 결과
 * 개발 초반부터 문제가 생겨 이후 연관된 모든 개발 진행에 차질이 생기는 경우
     ![issue4](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/27b56023-cc2c-4905-84b7-8b0e34e2710a)
 
-### 추가적인 이슈 해결 과정
+
+
+## Github Action ISSUE
+build 위치가 잘못되어 발생한 이슈
+<img src="https://github.com/user-attachments/assets/fc7861a4-0028-422f-bb57-5debeec19482"/>
+
+
+
+정확한 위치에서 build를 하기 위해 프로젝트 저장소 이동
+
+wait-for-it.sh가 있는 저장소까지 가고 권한을 부여
+
+```
+chmod +x wait-for-it.sh
+chmod +x manage.py
+```
+docker github에 접속
+```
+echo <토큰> | docker login ghcr.io -u <유저 이름> --password-stdin
+```
+build를 진행
+```
+docker buildx build --platform linux/arm64 -f Dockerfile -t ghcr.io/<유저 이름>/<서버 이름>:latest --push .
+```
+awskey가 있는 로컬로 들어가서 aws로그인
+```
+ssh -i "펨키파일이름.pem" ec2-user@내IP(퍼블릭IPv4 주소)
+```
+이미지 삭제
+```
+docker rmi -f $(docker images -aq)
+
+docker ps
+```
+이후 
+
+로그인 한 계정에 있는 registry에 있는 build된 파일을 가져와 build
+
+```
+docker-compose build
+
+docker-compose up
+```
 
 
 # 14. 한 줄 회고
