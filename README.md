@@ -15,7 +15,6 @@ SKN01-3nd-5Team
 **CI/CD**는 "Continuous Integration"과 "Continuous Deployment"의 약자로, 소프트웨어 개발 및 배포의 효율성을 높이기 위한 자동화된 프로세스를 의미합니다. CI/CD는 개발자가 코드를 지속적으로 통합하고, 이를 자동으로 테스트 및 배포하여 신속하고 안정적인 소프트웨어 제공을 목표로 합니다.
 
 ## 프로젝트 소개
-
 이 **CI/CD 프로젝트**는 개발팀의 소프트웨어 개발 라이프사이클을 자동화하고 최적화하기 위해 설계되었습니다. CI/CD 파이프라인은 코드의 변경 사항을 실시간으로 감지하고, 이를 자동으로 빌드, 테스트, 배포하는 일련의 자동화된 프로세스를 포함합니다. 이 프로젝트는 다양한 도구와 플랫폼(예: Jenkins, GitLab CI, GitHub Actions, CircleCI 등)을 활용하여 효과적인 CI/CD 환경을 구축하고, 개발팀의 생산성을 극대화하는 것을 목표로 합니다.
 
 ## 필요성
@@ -37,14 +36,18 @@ SKN01-3nd-5Team
 
 
 # 3. ERD 구성
+<div style="text-align: center;">
+  <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/0c38f744-c977-4807-a6d2-92ff0b68b68c" alt="img">
+</div>
 
 # 4. Backend 애자일 보드 - 요구 사항 정의서
-
+[Backend Agileboard](https://www.notion.so/eddi-robot-academy/385f355e185f425a9e8858ef8c466add?p=43cd11921bcf436aa9105b6751a6bddb&pm=s)
 # 5. Frontend 애자일 보드 - 화면 설계서
-
+[Frontend Agileboard](https://www.notion.so/eddi-robot-academy/BBZ-Vue-BBZV-da7a89266f414eafb91170f0560af8e6)
 # 6. FastAPI 애자일 보드 - AI 서빙 설계서
 
 # 7. 시스템 구성도
+![image](https://www.notion.so/eddi-robot-academy/BBZ-Django-BBZD-43cd11921bcf436aa9105b6751a6bddb)
 
 # 8. Manual Deploy (수동 배포 진행 절차)
 
@@ -63,6 +66,15 @@ SKN01-3nd-5Team
 ## FastAPI (AI Core Server)
 
 # 10. Result (수행 결과)
+### 메인 화면
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/eadc16be-2c03-401d-b4b9-27ffbb6cd5c9"/>
+
+### 개인별 호텔 추천 서비스
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/0215b44b-b0aa-48be-833d-4a7a5602fd52"/>
+
+### AARRR 분석 페이지
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/ff46ab8d-00bb-4c4a-b875-17162b703ff6"/>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/caa0dc76-b158-4293-b0b7-a70ab87bfb13"/>
 
 # 11. Tech Stack (기술 스택)
 ### Backend
@@ -72,10 +84,7 @@ SKN01-3nd-5Team
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/vuetify-%231867C0?style=for-the-badge&logo=vuetify&logoColor=white"/> <img src="https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 
 ### Communication
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-
-### CICD
-![Github Action](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=GitHub&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white"/> ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white) <img src="https://img.shields.io/badge/pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
@@ -84,8 +93,7 @@ SKN01-3nd-5Team
 <img src="https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 ### Infrastructure
-<img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Graphviz](https://img.shields.io/badge/Graphviz-used-blue.svg)
-
+<img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Graphviz](https://img.shields.io/badge/Graphviz-used-blue.svg) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # 12. 테스트 보고서 (CI 테스트 결과)
 
