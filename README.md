@@ -55,9 +55,11 @@ SKN01-3nd-5Team
 ```
 
 # 4. Backend 애자일 보드 - 요구 사항 정의서
+### ➡️Backend
 ![backend](https://github.com/user-attachments/assets/c5bc9c8f-b6de-4194-b8d9-0b97e5345ed7)
 
 # 5. Frontend 애자일 보드 - 화면 설계서
+### ➡️Frontend
 ![frontend1](https://github.com/user-attachments/assets/4294699e-0223-493f-8295-a673a4a79660)
 ![frontend2](https://github.com/user-attachments/assets/dc54b20e-e5a7-4772-aca5-e4fc5ebc40f3)
 # 6. FastAPI 애자일 보드 - AI 서빙 설계서
@@ -82,13 +84,13 @@ SKN01-3nd-5Team
 ## FastAPI (AI Core Server)
 
 # 10. Result (수행 결과)
-### 메인 화면
+### ➡️ 메인 화면
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/eadc16be-2c03-401d-b4b9-27ffbb6cd5c9"/>
 
-### 개인별 호텔 추천 서비스
+### ➡️ 개인별 호텔 추천 서비스
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/0215b44b-b0aa-48be-833d-4a7a5602fd52"/>
 
-### AARRR 분석 페이지
+### ➡️ AARRR 분석 페이지
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/ff46ab8d-00bb-4c4a-b875-17162b703ff6"/>
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/caa0dc76-b158-4293-b0b7-a70ab87bfb13"/>
 
