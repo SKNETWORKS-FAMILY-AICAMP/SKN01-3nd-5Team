@@ -52,13 +52,15 @@ SKN01-3nd-5Team
 ```
 
 # 4. Backend 애자일 보드 - 요구 사항 정의서
-[Backend Agileboard](https://www.notion.so/eddi-robot-academy/385f355e185f425a9e8858ef8c466add?p=43cd11921bcf436aa9105b6751a6bddb&pm=s)
+![backend](https://github.com/user-attachments/assets/c5bc9c8f-b6de-4194-b8d9-0b97e5345ed7)
+
 # 5. Frontend 애자일 보드 - 화면 설계서
-[Frontend Agileboard](https://www.notion.so/eddi-robot-academy/BBZ-Vue-BBZV-da7a89266f414eafb91170f0560af8e6)
+![frontend1](https://github.com/user-attachments/assets/4294699e-0223-493f-8295-a673a4a79660)
+![frontend2](https://github.com/user-attachments/assets/dc54b20e-e5a7-4772-aca5-e4fc5ebc40f3)
 # 6. FastAPI 애자일 보드 - AI 서빙 설계서
 
 # 7. 시스템 구성도
-![image](https://github.com/user-attachments/assets/2ef7d070-2f1e-4d6e-902b-2dd40ed3e272)
+![image](https://github.com/user-attachments/assets/5385f5b5-fbd1-41b9-bbec-eea1a607c67b)
 
 # 8. Manual Deploy (수동 배포 진행 절차)
 
@@ -143,6 +145,9 @@ CI 테스트 결과
 ### 매우 급함
 * 개발 초반부터 문제가 생겨 이후 연관된 모든 개발 진행에 차질이 생기는 경우
     ![issue4](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/27b56023-cc2c-4905-84b7-8b0e34e2710a)
+
+### 추가적인 이슈 해결 과정
+
 
 # 14. 한 줄 회고
 
