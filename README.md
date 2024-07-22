@@ -36,16 +36,13 @@ SKN01-3nd-5Team
 이 프로젝트는 CI/CD 프로세스를 통해 개발의 효율성과 품질을 높이고, 고객에게 더 나은 소프트웨어를 제공하기 위한 필수적인 기반을 마련하는 데 중점을 둡니다.
 
 
+# 3. ERD 구성
 
-# 3. Manual Deploy (수동 배포 진행 절차)
+# 4. 데이터 수집 방식 (크롤링)
 
-## Frontend (UI)
+# 5. Streamlit 애플리케이션 사용 방식
 
-## Backend (Server)
-
-## FastAPI (AI Core Server)
-
-# 4. Autonomous Deploy (자동 배포 진행 절차)
+# 6. Manual Deploy (수동 배포 진행 절차)
 
 ## Frontend (UI)
 
@@ -53,9 +50,17 @@ SKN01-3nd-5Team
 
 ## FastAPI (AI Core Server)
 
-# 5. Result (수행 결과)
+# 7. Autonomous Deploy (자동 배포 진행 절차)
 
-# 6. Tech Stack (기술 스택)
+## Frontend (UI)
+
+## Backend (Server)
+
+## FastAPI (AI Core Server)
+
+# 8. Result (수행 결과)
+
+# 9. Tech Stack (기술 스택)
 ### Backend
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/> ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
@@ -76,9 +81,14 @@ SKN01-3nd-5Team
 
 ### Infrastructure
 <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Graphviz](https://img.shields.io/badge/Graphviz-used-blue.svg)
-# 7. Agile Board (애자일 보드)
 
-# 8. Deploy Issue (배포 이슈)
 
-# 9. 한 줄 회고
+# 10. 테스트 보고서 (CI 테스트 결과)
+
+# 11. Agile Board (애자일 보드)
+
+# 12. Deploy Issue (배포 이슈)
+
+# 13. 한 줄 회고
+
 
