@@ -96,6 +96,19 @@ SKN01-3nd-5Team
 <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Graphviz](https://img.shields.io/badge/Graphviz-used-blue.svg) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # 12. 테스트 보고서 (CI 테스트 결과)
+CI 테스트 결과
+
+![image1](https://github.com/user-attachments/assets/3148084b-c313-4f5c-8a24-4c2ec0a0e8d7)
+*********
+![image2](https://github.com/user-attachments/assets/c955dd4c-fee1-429a-a161-ea3a10cf519d)
+*********
+![image3-1](https://github.com/user-attachments/assets/19d4676e-1e6d-49aa-bfde-9e76fb2ecbbb)
+*********
+![image3-2](https://github.com/user-attachments/assets/0fc14c05-4705-466b-ba03-5c4830ebc903)
+*********
+![image3-3](https://github.com/user-attachments/assets/4b2dfe05-2bfe-43c8-8777-9dded01c055c)
+*********
+![image4](https://github.com/user-attachments/assets/c88d74c5-aee2-4138-939c-352406ecf34c)
 
 # 13. Deploy Issue (배포 이슈)
 
