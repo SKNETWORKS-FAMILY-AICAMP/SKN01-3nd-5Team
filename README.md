@@ -47,7 +47,7 @@ SKN01-3nd-5Team
 # 6. FastAPI 애자일 보드 - AI 서빙 설계서
 
 # 7. 시스템 구성도
-![image](https://www.notion.so/eddi-robot-academy/BBZ-Django-BBZD-43cd11921bcf436aa9105b6751a6bddb)
+![image](https://github.com/user-attachments/assets/2ef7d070-2f1e-4d6e-902b-2dd40ed3e272)
 
 # 8. Manual Deploy (수동 배포 진행 절차)
 
