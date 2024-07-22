@@ -112,6 +112,27 @@ CI 테스트 결과
 
 # 13. Deploy Issue (배포 이슈)
 
+## 우선 순위를 5 단계로 나눠서 관리  
+
+```c
+실제 서비스를 운영한다는 마인드로 현실 상황에서 발생하는 크고 작은 이슈들이 존재할 것입니다.
+이 서비스들에서 회사 입장에서 매출에 중요한 것과 중요하지 않은 것들이 있을 것입니다.
+이와 같은 사항들을 실질적으로 고려하여 이슈 관리를 진행합니다.
+```
+  
+### 급하지않음
+* 서비스가 가능하면서 사용자들은 불편함을 느끼지 못하여 매출에 지장이 전혀 없는 경우  
+    ![issue1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/464a12d6-26d4-4e2c-921f-f9ed95290370)
+### 보통
+* 서비스가 불가능하여 기능을 하지 못하지만 수정하기 어렵지 않은 경우
+    ![issue2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/606ce865-0868-4693-9ec4-1f8b04ca2fd8)
+### 급함
+* 개발 막바지, 서비스 배포 직전에 문제가 생겨서 기능을 하지 못하는 경우
+   ![issue3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/a134df1b-49f3-4e20-810a-8e1db446ee91)
+### 매우 급함
+* 개발 초반부터 문제가 생겨 이후 연관된 모든 개발 진행에 차질이 생기는 경우
+    ![issue4](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/27b56023-cc2c-4905-84b7-8b0e34e2710a)
+
 # 14. 한 줄 회고
 
 
