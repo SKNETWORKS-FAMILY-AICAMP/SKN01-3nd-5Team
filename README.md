@@ -677,7 +677,7 @@ build 결과 사진 (밑에)
 <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Graphviz](https://img.shields.io/badge/Graphviz-used-blue.svg) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # 12. 테스트 보고서 (CI 테스트 결과)
-CI 테스트 결과
+Front CI 테스트 결과
 
 ![image1](https://github.com/user-attachments/assets/3148084b-c313-4f5c-8a24-4c2ec0a0e8d7)
 *********
@@ -691,6 +691,7 @@ CI 테스트 결과
 *********
 ![image4](https://github.com/user-attachments/assets/c88d74c5-aee2-4138-939c-352406ecf34c)
 
+전체 과정을 보니 잘 돌아 가는 것을 확인 할 수 있었습니다.
 # 13. Deploy Issue (배포 이슈)
 
 ## 우선 순위를 5 단계로 나눠서 관리  
