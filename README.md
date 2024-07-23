@@ -691,7 +691,19 @@ Front CI 테스트 결과
 *********
 ![image4](https://github.com/user-attachments/assets/c88d74c5-aee2-4138-939c-352406ecf34c)
 
-전체 과정을 보니 잘 돌아 가는 것을 확인 할 수 있었습니다.
+Frontend CI 전체 과정을 보니 잘 돌아 가는 것을 확인 할 수 있었습니다.
+
+![backimg1](https://github.com/user-attachments/assets/95fc625a-d9e0-4512-a13c-29239fea7e72)
+*********
+![backimg2](https://github.com/user-attachments/assets/f965d3a8-df06-4f23-808f-390752ed6d63)
+*********
+![backimg3](https://github.com/user-attachments/assets/f33c81cd-ed22-48bb-a8ff-3e37f54e56ca)
+*********
+![backimg4](https://github.com/user-attachments/assets/eea06a75-8fe4-40c9-aa9d-49b4c46c4098)
+*********
+
+또한 Backend CI 전체 과정을 보니 잘 돌아 가는 것을 확인 할 수 있었습니다.
+
 # 13. Deploy Issue (배포 이슈)
 
 ## 우선 순위를 5 단계로 나눠서 관리  
