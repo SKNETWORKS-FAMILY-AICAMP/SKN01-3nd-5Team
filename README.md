@@ -1,8 +1,11 @@
 # SKN01-3nd-5Team
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=FC4D01&text=SKN01-3nd-5Team&height=300&fontSize=90&&fontColor=FFFFFF)
+
 SKN01-3nd-5Team
 
 # 1. Introduction Team (팀 소개)
-- ### Chat-gtp(great-taking-potato)
+- ### 🥔Chat-gtp(great-taking-potato)🥔
 
 | 김용현 | 김지민 | 한병찬 | 이용우 | 정원형|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -14,17 +17,17 @@ SKN01-3nd-5Team
 
 **CI/CD**는 "Continuous Integration"과 "Continuous Deployment"의 약자로, 소프트웨어 개발 및 배포의 효율성을 높이기 위한 자동화된 프로세스를 의미합니다. CI/CD는 개발자가 코드를 지속적으로 통합하고, 이를 자동으로 테스트 및 배포하여 신속하고 안정적인 소프트웨어 제공을 목표로 합니다.
 
-## 프로젝트 소개
+## ✅프로젝트 소개
 이 **CI/CD 프로젝트**는 개발팀의 소프트웨어 개발 라이프사이클을 자동화하고 최적화하기 위해 설계되었습니다. CI/CD 파이프라인은 코드의 변경 사항을 실시간으로 감지하고, 이를 자동으로 빌드, 테스트, 배포하는 일련의 자동화된 프로세스를 포함합니다. 이 프로젝트는 다양한 도구와 플랫폼(예: Jenkins, GitLab CI, GitHub Actions, CircleCI 등)을 활용하여 효과적인 CI/CD 환경을 구축하고, 개발팀의 생산성을 극대화하는 것을 목표로 합니다.
 
-## 필요성
+## ✅필요성
 
 1. **효율적인 코드 통합**: 개발자들이 코드 변경 사항을 자주 통합할 수 있도록 하여 코드의 충돌을 사전에 예방하고, 코드 품질을 유지합니다.
 2. **빠른 피드백 루프**: 자동화된 테스트와 빌드 프로세스를 통해 코드 변경 후 신속하게 피드백을 제공함으로써 버그를 조기에 발견하고 수정할 수 있습니다.
 3. **배포의 자동화**: 배포 과정을 자동화하여 배포의 일관성을 높이고, 수동 오류를 줄이며, 새로운 기능이나 버그 수정을 신속하게 사용자에게 제공할 수 있습니다.
 4. **비즈니스 민첩성 향상**: CI/CD를 통해 개발 주기를 단축시키고, 시장의 요구에 빠르게 대응할 수 있습니다.
 
-## 목표
+## ✅목표
 
 1. **자동화된 테스트 및 빌드**: 코드가 변경될 때마다 자동으로 테스트를 수행하고, 성공적인 경우에만 빌드를 진행하여 안정성을 보장합니다.
 2. **지속적인 배포**: 성공적인 빌드 후 자동으로 배포를 진행하여 소프트웨어를 신속하게 사용자에게 제공할 수 있도록 합니다.
@@ -52,9 +55,11 @@ SKN01-3nd-5Team
 ```
 
 # 4. Backend 애자일 보드 - 요구 사항 정의서
+### ➡️Backend
 ![backend](https://github.com/user-attachments/assets/c5bc9c8f-b6de-4194-b8d9-0b97e5345ed7)
 
 # 5. Frontend 애자일 보드 - 화면 설계서
+### ➡️Frontend
 ![frontend1](https://github.com/user-attachments/assets/4294699e-0223-493f-8295-a673a4a79660)
 ![frontend2](https://github.com/user-attachments/assets/dc54b20e-e5a7-4772-aca5-e4fc5ebc40f3)
 # 6. FastAPI 애자일 보드 - AI 서빙 설계서
@@ -646,13 +651,13 @@ SKN01-3nd-5Team
             docker-compose up -d
 
 # 10. Result (수행 결과)
-### 메인 화면
+### ➡️ 메인 화면
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/eadc16be-2c03-401d-b4b9-27ffbb6cd5c9"/>
 
-### 개인별 호텔 추천 서비스
+### ➡️ 개인별 호텔 추천 서비스
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/0215b44b-b0aa-48be-833d-4a7a5602fd52"/>
 
-### AARRR 분석 페이지
+### ➡️ AARRR 분석 페이지
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/ff46ab8d-00bb-4c4a-b875-17162b703ff6"/>
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/caa0dc76-b158-4293-b0b7-a70ab87bfb13"/>
 
@@ -676,7 +681,7 @@ SKN01-3nd-5Team
 <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Graphviz](https://img.shields.io/badge/Graphviz-used-blue.svg) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # 12. 테스트 보고서 (CI 테스트 결과)
-CI 테스트 결과
+Front CI 테스트 결과
 
 ![image1](https://github.com/user-attachments/assets/3148084b-c313-4f5c-8a24-4c2ec0a0e8d7)
 *********
@@ -689,6 +694,19 @@ CI 테스트 결과
 ![image3-3](https://github.com/user-attachments/assets/4b2dfe05-2bfe-43c8-8777-9dded01c055c)
 *********
 ![image4](https://github.com/user-attachments/assets/c88d74c5-aee2-4138-939c-352406ecf34c)
+
+Frontend CI 전체 과정을 보니 잘 돌아 가는 것을 확인 할 수 있었습니다.
+
+![backimg1](https://github.com/user-attachments/assets/95fc625a-d9e0-4512-a13c-29239fea7e72)
+*********
+![backimg2](https://github.com/user-attachments/assets/f965d3a8-df06-4f23-808f-390752ed6d63)
+*********
+![backimg3](https://github.com/user-attachments/assets/f33c81cd-ed22-48bb-a8ff-3e37f54e56ca)
+*********
+![backimg4](https://github.com/user-attachments/assets/eea06a75-8fe4-40c9-aa9d-49b4c46c4098)
+*********
+
+또한 Backend CI 전체 과정을 보니 잘 돌아 가는 것을 확인 할 수 있었습니다.
 
 # 13. Deploy Issue (배포 이슈)
 
