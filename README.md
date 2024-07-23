@@ -68,8 +68,9 @@ SKN01-3nd-5Team
 Ⅰlocal에서 build 
     
     npm run build
+    
+![image](https://github.com/user-attachments/assets/91f30174-c643-4cf6-9a7c-d6d3122d439e)
 
-build 결과 사진 (밑에)
 
 Ⅱ scp 명령어 사용하여 aws 서버에 build를 올림
     
@@ -78,7 +79,7 @@ build 결과 사진 (밑에)
 Ⅲ aws 서버에 접속 후
   
     ssh -i "본인의 pem키" ec2-user@public ipv4
-
+![front2](https://github.com/user-attachments/assets/1ee585c7-3abb-4a1f-b37a-772b1a5b6aa9)
 Ⅳ docker-compose.yml 파일을 이용해
     
     docker-compose up -d
@@ -98,15 +99,16 @@ build 결과 사진 (밑에)
        docker buildx create --use
        docker buildx build --platform linux/arm64 -f Dockerfile -t ghcr.io/계정/django-test-server:latest --push .
 ​
+![backendbuild](https://github.com/user-attachments/assets/2c7869d9-3f20-40db-8eb1-52cb920b42e5)
 3. aws 서버 접속
   
     ssh -i "본인의 pem키" ec2-user@public ipv4
 
-4. aws에 접속하여 docker-compose.yml을 이용하여 수동 build를 합니다.
+4. aws에 접속하여 docker-compose.yml을 이용하여 수동 배포를 합니다.
 
        docker-compose up -d
 
-
+![backendup](https://github.com/user-attachments/assets/e0f8672b-44e2-407b-b6f5-f8010bf10239)
 ## FastAPI (AI Core Server)
 1. docker서버에 로그인
 
@@ -118,14 +120,16 @@ build 결과 사진 (밑에)
         docker buildx create --use
         docker buildx build --platform linux/arm64 --file ./Dockerfile --push -t ghcr.io/계정/gtp-fastapi-server:latest .
 
+![fastapibuild](https://github.com/user-attachments/assets/7f862a2d-75fc-416c-a154-26fd2cb9f287)
 3. 3. docker 서버 접속
   
     ssh -i "본인의 pem키" ec2-user@public ipv4
 
-4. aws에 접속하여 docker-compose.yml을 이용하여 수동 build를 합니다.
+4. aws에 접속하여 docker-compose.yml을 이용하여 수동 배포를 합니다.
 
        docker-compose up -d
 
+![fastapiup](https://github.com/user-attachments/assets/10eea291-aa63-494a-8f12-8a8aae451807)
 # 9. Autonomous Deploy (자동 배포 진행 절차)
 
 ## Frontend (UI)
